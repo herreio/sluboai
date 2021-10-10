@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://digital.slub-dresden.de/typo3conf/ext/dlf/Resources/Public/Stylesheets/OaiPmh.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2021-10-10T14:39:32Z</responseDate>
+  <request verb="ListMetadataFormats">https://digital.slub-dresden.de/oai</request>
+  <ListMetadataFormats>
+    <metadataFormat>
+      <metadataPrefix>oai_dc</metadataPrefix>
+      <schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema>
+      <metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>epicur</metadataPrefix>
+      <schema>http://www.persistent-identifier.de/xepicur/version1.0/xepicur.xsd</schema>
+      <metadataNamespace>urn:nbn:de:1111-2004033116</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>mets</metadataPrefix>
+      <schema>http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd</schema>
+      <metadataNamespace>http://www.loc.gov/METS/</metadataNamespace>
+    </metadataFormat>
+  </ListMetadataFormats>
+</OAI-PMH>

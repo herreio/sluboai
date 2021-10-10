@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/                              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2021-10-10T14:39:32Z</responseDate>
+  <request verb="ListSets" set="qucosa:slub">http://sdvcmr-prod-oai01:8080/oai/</request>
+  <ListSets>
+    <set>
+      <setSpec>doc-type</setSpec>
+      <setName>doc-type</setName>
+    </set>
+    <set>
+      <setSpec>ddc</setSpec>
+      <setName>ddc</setName>
+    </set>
+    <set>
+      <setSpec>qucosa</setSpec>
+      <setName>qucosa</setName>
+    </set>
+    <set>
+      <setSpec>has-source-swb</setSpec>
+      <setName>has-source-swb</setName>
+    </set>
+    <set>
+      <setSpec>status-type</setSpec>
+      <setName>status-type</setName>
+    </set>
+    <set>
+      <setSpec>ddc:330</setSpec>
+      <setName>Economics</setName>
+    </set>
+    <set>
+      <setSpec>ddc:530</setSpec>
+      <setName>Physics</setName>
+    </set>
+    <set>
+      <setSpec>ddc:900</setSpec>
+      <setName>Geography and history</setName>
+    </set>
+    <set>
+      <setSpec>status-type:updatedVersion</setSpec>
+      <setName>updated version</setName>
+    </set>
+    <set>
+      <setSpec>ddc:420</setSpec>
+      <setName>English</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:annotation</setSpec>
+      <setName>Annotation</setName>
+    </set>
+    <set>
+      <setSpec>has-source-swb:false</setSpec>
+      <setName>All records without PPN</setName>
+    </set>
+    <set>
+      <setSpec>ddc:500</setSpec>
+      <setName>Natural sciences and mathematics</setName>
+    </set>
+    <set>
+      <setSpec>ddc:333.7</setSpec>
+      <setName>Natural ressources, energy and environment</setName>
+    </set>
+    <set>
+      <setSpec>ddc:550</setSpec>
+      <setName>Earth sciences</setName>
+    </set>
+    <set>
+      <setSpec>ddc:370</setSpec>
+      <setName>Education</setName>
+    </set>
+    <set>
+      <setSpec>ddc:793</setSpec>
+      <setName>Indoor games and amusements</setName>
+    </set>
+    <set>
+      <setSpec>ddc:000</setSpec>
+      <setName>Generalities, Science</setName>
+    </set>
+    <set>
+      <setSpec>ddc:470</setSpec>
+      <setName>Italic Latin</setName>
+    </set>
+    <set>
+      <setSpec>ddc:600</setSpec>
+      <setName>Technology (Applied sciences)</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:bachelorThesis</setSpec>
+      <setName>BachelorThesis</setName>
+    </set>
+    <set>
+      <setSpec>status-type:acceptedVersion</setSpec>
+      <setName>accepted version</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:contributionToPeriodical</setSpec>
+      <setName>ContributionToPeriodical</setName>
+    </set>
+    <set>
+      <setSpec>ddc:320</setSpec>
+      <setName>Political science</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:MusicalNotation</setSpec>
+      <setName>MusicalNotation</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Periodical</setSpec>
+      <setName>Periodical</setName>
+    </set>
+    <set>
+      <setSpec>ddc:960</setSpec>
+      <setName>General history of Africa</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:doctoralThesis</setSpec>
+      <setName>DoctoralThesis</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:tubaf</setSpec>
+      <setName>TUBAF objects collection</setName>
+    </set>
+    <set>
+      <setSpec>ddc:690</setSpec>
+      <setName>Buildings</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:slub</setSpec>
+      <setName>SLUB object collection</setName>
+    </set>
+    <set>
+      <setSpec>ddc:050</setSpec>
+      <setName>General serials and their indexes</setName>
+    </set>
+    <set>
+      <setSpec>ddc:030</setSpec>
+      <setName>General encyclopedic works</setName>
+    </set>
+    <set>
+      <setSpec>ddc:004</setSpec>
+      <setName>Data processing Computer science</setName>
+    </set>
+    <set>
+      <setSpec>ddc:730</setSpec>
+      <setName>Plastic arts Sculpture</setName>
+    </set>
+    <set>
+      <setSpec>ddc:060</setSpec>
+      <setName>General organization and museology</setName>
+    </set>
+    <set>
+      <setSpec>ddc:890</setSpec>
+      <setName>Literatures of other languages</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:MovingImage</setSpec>
+      <setName>MovingImage</setName>
+    </set>
+    <set>
+      <setSpec>ddc:660</setSpec>
+      <setName>Chemical engineering Technische</setName>
+    </set>
+    <set>
+      <setSpec>ddc:980</setSpec>
+      <setName>General history of South America</setName>
+    </set>
+    <set>
+      <setSpec>ddc:800</setSpec>
+      <setName>Literature and rhetoric</setName>
+    </set>
+    <set>
+      <setSpec>ddc:880</setSpec>
+      <setName>Hellenic literatures Classical Greek</setName>
+    </set>
+    <set>
+      <setSpec>ddc:570</setSpec>
+      <setName>Life sciences</setName>
+    </set>
+    <set>
+      <setSpec>ddc:830</setSpec>
+      <setName>Literatures of Germanic languages</setName>
+    </set>
+    <set>
+      <setSpec>status-type:submittedVersion</setSpec>
+      <setName>submitted version</setName>
+    </set>
+    <set>
+      <setSpec>ddc:760</setSpec>
+      <setName>Graphic arts Printmaking and prints</setName>
+    </set>
+    <set>
+      <setSpec>ddc:640</setSpec>
+      <setName>Home economics and family living</setName>
+    </set>
+    <set>
+      <setSpec>ddc:914.3</setSpec>
+      <setName>Geography and travel</setName>
+    </set>
+    <set>
+      <setSpec>ddc:520</setSpec>
+      <setName>Astronomy and allied sciences</setName>
+    </set>
+    <set>
+      <setSpec>open_access</setSpec>
+      <setName>Documents with open access restriction</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:htwk-leipzig</setSpec>
+      <setName>HTWK Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:patent</setSpec>
+      <setName>Patent</setName>
+    </set>
+    <set>
+      <setSpec>ddc:740</setSpec>
+      <setName>Drawing and decorative arts</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Software</setSpec>
+      <setName>Software</setName>
+    </set>
+    <set>
+      <setSpec>status-type:draftVersion</setSpec>
+      <setName>draft version</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:CourseMaterial</setSpec>
+      <setName>CourseMaterial</setName>
+    </set>
+    <set>
+      <setSpec>ddc:390</setSpec>
+      <setName>Customs, etiquette, folklore</setName>
+    </set>
+    <set>
+      <setSpec>ddc:840</setSpec>
+      <setName>Literatures of Romance languages</setName>
+    </set>
+    <set>
+      <setSpec>ddc:490</setSpec>
+      <setName>Other languages</setName>
+    </set>
+    <set>
+      <setSpec>ddc:100</setSpec>
+      <setName>Philosophy</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:bookPart</setSpec>
+      <setName>BookPart</setName>
+    </set>
+    <set>
+      <setSpec>ddc:580</setSpec>
+      <setName>Botanical sciences</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Other</setSpec>
+      <setName>Other</setName>
+    </set>
+    <set>
+      <setSpec>ddc:621.3</setSpec>
+      <setName>Electrical engineering and electronic</setName>
+    </set>
+    <set>
+      <setSpec>ddc:430</setSpec>
+      <setName>Germanic</setName>
+    </set>
+    <set>
+      <setSpec>ddc:130</setSpec>
+      <setName>Paranormal phenomena</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:preprint</setSpec>
+      <setName>Preprint</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Text</setSpec>
+      <setName>Text</setName>
+    </set>
+    <set>
+      <setSpec>ddc:620</setSpec>
+      <setName>Engineering and allied operations</setName>
+    </set>
+    <set>
+      <setSpec>ddc:891.8</setSpec>
+      <setName>Slavic literature</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:workingPaper</setSpec>
+      <setName>WorkingPaper</setName>
+    </set>
+    <set>
+      <setSpec>ddc:491.8</setSpec>
+      <setName>Slavic languages</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Manuscript</setSpec>
+      <setName>Manuscript</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Website</setSpec>
+      <setName>Website</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:PeriodicalPart</setSpec>
+      <setName>PeriodicalPart</setName>
+    </set>
+    <set>
+      <setSpec>ddc:020</setSpec>
+      <setName>Library and information sciences</setName>
+    </set>
+    <set>
+      <setSpec>ddc:796</setSpec>
+      <setName>Athletic and outdoor sports and games</setName>
+    </set>
+    <set>
+      <setSpec>ddc:350</setSpec>
+      <setName>Public administration</setName>
+    </set>
+    <set>
+      <setSpec>ddc:010</setSpec>
+      <setName>Bibliography</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:htw</setSpec>
+      <setName>HTW objects collection</setName>
+    </set>
+    <set>
+      <setSpec>ddc:650</setSpec>
+      <setName>Management and auxiliary services</setName>
+    </set>
+    <set>
+      <setSpec>ddc:920</setSpec>
+      <setName>Biography, genealogy, insignia</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:masterThesis</setSpec>
+      <setName>MasterThesis</setName>
+    </set>
+    <set>
+      <setSpec>ddc:540</setSpec>
+      <setName>Chemistry and allied sciences</setName>
+    </set>
+    <set>
+      <setSpec>ddc:439</setSpec>
+      <setName>Other Germanic languages</setName>
+    </set>
+    <set>
+      <setSpec>ddc:340</setSpec>
+      <setName>Law</setName>
+    </set>
+    <set>
+      <setSpec>ddc:510</setSpec>
+      <setName>Mathematics</setName>
+    </set>
+    <set>
+      <setSpec>ddc:560</setSpec>
+      <setName>Paleontology Paleozoology</setName>
+    </set>
+    <set>
+      <setSpec>ddc:810</setSpec>
+      <setName>American literature in English</setName>
+    </set>
+    <set>
+      <setSpec>ddc:440</setSpec>
+      <setName>Romance languages French</setName>
+    </set>
+    <set>
+      <setSpec>ddc:720</setSpec>
+      <setName>Architecture</setName>
+    </set>
+    <set>
+      <setSpec>ddc:200</setSpec>
+      <setName>Religion</setName>
+    </set>
+    <set>
+      <setSpec>ddc:355</setSpec>
+      <setName>Military science</setName>
+    </set>
+    <set>
+      <setSpec>ddc:910</setSpec>
+      <setName>Geography and travel</setName>
+    </set>
+    <set>
+      <setSpec>ddc:230</setSpec>
+      <setName>Christian theology</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:report</setSpec>
+      <setName>Report</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:StillImage</setSpec>
+      <setName>StillImage</setName>
+    </set>
+    <set>
+      <setSpec>ddc:750</setSpec>
+      <setName>Painting and paintings</setName>
+    </set>
+    <set>
+      <setSpec>ddc:710</setSpec>
+      <setName>Civic and landscape art</setName>
+    </set>
+    <set>
+      <setSpec>ddc:300</setSpec>
+      <setName>Social sciences</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:CarthographicMaterial</setSpec>
+      <setName>CarthographicMaterial</setName>
+    </set>
+    <set>
+      <setSpec>has-source-swb:true</setSpec>
+      <setName>All records with PPN</setName>
+    </set>
+    <set>
+      <setSpec>ddc:610</setSpec>
+      <setName>Medical sciences Medicine</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:article</setSpec>
+      <setName>Article</setName>
+    </set>
+    <set>
+      <setSpec>ddc:310</setSpec>
+      <setName>General statistics</setName>
+    </set>
+    <set>
+      <setSpec>ddc:090</setSpec>
+      <setName>Manuscripts and rare books</setName>
+    </set>
+    <set>
+      <setSpec>ddc:780</setSpec>
+      <setName>Music</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Sound</setSpec>
+      <setName>Sound</setName>
+    </set>
+    <set>
+      <setSpec>ddc:150</setSpec>
+      <setName>Psychology</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:lecture</setSpec>
+      <setName>Lecture</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:hzdr</setSpec>
+      <setName>HZDR objects collection</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:tud</setSpec>
+      <setName>TUD objects collection</setName>
+    </set>
+    <set>
+      <setSpec>ddc:820</setSpec>
+      <setName>English and Old English literatures</setName>
+    </set>
+    <set>
+      <setSpec>ddc:940</setSpec>
+      <setName>General history of Europe</setName>
+    </set>
+    <set>
+      <setSpec>ddc:290</setSpec>
+      <setName>Other and comparative religions</setName>
+    </set>
+    <set>
+      <setSpec>ddc:791</setSpec>
+      <setName>Public performances</setName>
+    </set>
+    <set>
+      <setSpec>ddc:400</setSpec>
+      <setName>Language, Linguistics</setName>
+    </set>
+    <set>
+      <setSpec>ddc:480</setSpec>
+      <setName>Hellenic languages Classical Greek</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:diu</setSpec>
+      <setName>DIU objects collection</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:fid-move</setSpec>
+      <setName>FID MOVE objects collection</setName>
+    </set>
+    <set>
+      <setSpec>ddc:790</setSpec>
+      <setName>Recreational and performing arts</setName>
+    </set>
+    <set>
+      <setSpec>ddc:630</setSpec>
+      <setName>Agriculture</setName>
+    </set>
+    <set>
+      <setSpec>ddc:741.5</setSpec>
+      <setName>Comics, Cartoons</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:StudyThesis</setSpec>
+      <setName>StudyThesis</setName>
+    </set>
+    <set>
+      <setSpec>ddc:450</setSpec>
+      <setName>Italian, Romanian, Rhaeto-Romantic</setName>
+    </set>
+    <set>
+      <setSpec>ddc:590</setSpec>
+      <setName>Zoological sciences</setName>
+    </set>
+    <set>
+      <setSpec>status-type:publishedVersion</setSpec>
+      <setName>published version</setName>
+    </set>
+    <set>
+      <setSpec>ddc:360</setSpec>
+      <setName>Social services; association</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:ubc</setSpec>
+      <setName>MONARCH object collection</setName>
+    </set>
+    <set>
+      <setSpec>ddc:700</setSpec>
+      <setName>The arts</setName>
+    </set>
+    <set>
+      <setSpec>ddc:860</setSpec>
+      <setName>Spanish and Portuguese literatures</setName>
+    </set>
+    <set>
+      <setSpec>ddc:070</setSpec>
+      <setName>News media, journalism, publishing</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:Image</setSpec>
+      <setName>Image</setName>
+    </set>
+    <set>
+      <setSpec>ddc:850</setSpec>
+      <setName>Italian, Romanian, Rhaeto-Romanic literatures</setName>
+    </set>
+    <set>
+      <setSpec>ddc:080</setSpec>
+      <setName>General collections</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:book</setSpec>
+      <setName>Book</setName>
+    </set>
+    <set>
+      <setSpec>qucosa:ubl</setSpec>
+      <setName>UBL object collection</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:review</setSpec>
+      <setName>Review</setName>
+    </set>
+    <set>
+      <setSpec>ddc:380</setSpec>
+      <setName>Commerce, communications, transport</setName>
+    </set>
+    <set>
+      <setSpec>ddc:460</setSpec>
+      <setName>Spanish and Portugese languages</setName>
+    </set>
+    <set>
+      <setSpec>ddc:839</setSpec>
+      <setName>Other Germanic literatures</setName>
+    </set>
+    <set>
+      <setSpec>ddc:930</setSpec>
+      <setName>History of the ancient world</setName>
+    </set>
+    <set>
+      <setSpec>ddc:792</setSpec>
+      <setName>Stage presentations</setName>
+    </set>
+    <set>
+      <setSpec>ddc:870</setSpec>
+      <setName>Italic literatures Latin</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:conferenceObject</setSpec>
+      <setName>conferenceObject</setName>
+    </set>
+    <set>
+      <setSpec>ddc:670</setSpec>
+      <setName>Manufacturing</setName>
+    </set>
+    <set>
+      <setSpec>ddc:770</setSpec>
+      <setName>Photography and photographs</setName>
+    </set>
+    <set>
+      <setSpec>ddc:220</setSpec>
+      <setName>Bible</setName>
+    </set>
+    <set>
+      <setSpec>ddc:970</setSpec>
+      <setName>General history of North America</setName>
+    </set>
+    <set>
+      <setSpec>openaire</setSpec>
+      <setName>OpenAire</setName>
+    </set>
+    <set>
+      <setSpec>ddc:943</setSpec>
+      <setName>General history of Europe Central Europe Germany</setName>
+    </set>
+    <set>
+      <setSpec>ddc:990</setSpec>
+      <setName>General history of other areas</setName>
+    </set>
+    <set>
+      <setSpec>ddc:950</setSpec>
+      <setName>General history of Asia Far East</setName>
+    </set>
+    <set>
+      <setSpec>doc-type:ResearchData</setSpec>
+      <setName>ResearchData</setName>
+    </set>
+  </ListSets>
+</OAI-PMH>

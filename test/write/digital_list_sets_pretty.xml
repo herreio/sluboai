@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://digital.slub-dresden.de/typo3conf/ext/dlf/Resources/Public/Stylesheets/OaiPmh.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2021-10-10T14:39:32Z</responseDate>
+  <request verb="ListSets">https://digital.slub-dresden.de/oai</request>
+  <ListSets>
+    <set>
+      <setSpec>15th-century-prints</setSpec>
+      <setName>Drucke des 15. Jahrhunderts</setName>
+    </set>
+    <set>
+      <setSpec>16th-century-prints</setSpec>
+      <setName>Drucke des 16. Jahrhunderts</setName>
+    </set>
+    <set>
+      <setSpec>175-years-academy-of-natural-sciences-isis-dresden</setSpec>
+      <setName>175 Jahre Naturwissenschaftliche Gesellschaft ISIS in Dresden</setName>
+    </set>
+    <set>
+      <setSpec>17th-century-prints</setSpec>
+      <setName>Drucke des 17. Jahrhunderts</setName>
+    </set>
+    <set>
+      <setSpec>18th-century-prints</setSpec>
+      <setName>Drucke des 18. Jahrhunderts</setName>
+    </set>
+    <set>
+      <setSpec>art</setSpec>
+      <setName>Kunst</setName>
+    </set>
+    <set>
+      <setSpec>autographs</setSpec>
+      <setName>Autographe</setName>
+    </set>
+    <set>
+      <setSpec>becher-institute-exam-paper</setSpec>
+      <setName>Abschlussarbeiten des Instituts für Literatur ‚Johannes R. Becher’ Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>bestnde-der-universittsbibliothek-freiberg</setSpec>
+      <setName>Bestände der Universitätsbibliothek Freiberg</setName>
+    </set>
+    <set>
+      <setSpec>castle-roetha</setSpec>
+      <setName>Freiherrlich von Friesen’sche Schlossbibliothek zu Rötha</setName>
+    </set>
+    <set>
+      <setSpec>clockmaker-journals</setSpec>
+      <setName>Uhrmacher-Zeitschriften</setName>
+    </set>
+    <set>
+      <setSpec>collection-test</setSpec>
+      <setName>A - Kollektion über Abfrage</setName>
+    </set>
+    <set>
+      <setSpec>commercial-art</setSpec>
+      <setName>Gebrauchsgraphik</setName>
+    </set>
+    <set>
+      <setSpec>contemporary-arts</setSpec>
+      <setName>Zeitgenössische Kunst</setName>
+    </set>
+    <set>
+      <setSpec>ddb-bach-leipzig</setSpec>
+      <setName>Bach-Archiv Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>ddb-hfbk-dresden</setSpec>
+      <setName>Hochschule für Bildende Künste Dresden</setName>
+    </set>
+    <set>
+      <setSpec>ddb-hmt-leipzig</setSpec>
+      <setName>Hochschule für Musik und Theater</setName>
+    </set>
+    <set>
+      <setSpec>ddb-industriemuseum-chemnitz</setSpec>
+      <setName>Industriemuseum Chemnitz</setName>
+    </set>
+    <set>
+      <setSpec>ddb-isgv-dresden</setSpec>
+      <setName>Institut für Sächsische Geschichte und Volkskunde Dresden</setName>
+    </set>
+    <set>
+      <setSpec>ddb-kreismuseum-grimma</setSpec>
+      <setName>Kreismuseum Grimma</setName>
+    </set>
+    <set>
+      <setSpec>ddb-la-erzgebirgskreis</setSpec>
+      <setName>Landratsamt Erzgebirgskreis</setName>
+    </set>
+    <set>
+      <setSpec>ddb-li-laenderkunde</setSpec>
+      <setName>Leibniz-Institut für Länderkunde</setName>
+    </set>
+    <set>
+      <setSpec>ddb-museum-leipzig</setSpec>
+      <setName>Stadtgeschichtliches Museum Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>ddb-museum-markneukirchen</setSpec>
+      <setName>DDB Museum Markneukirchen</setName>
+    </set>
+    <set>
+      <setSpec>ddb-olb-goerlitz</setSpec>
+      <setName>Oberlausitzische Bibliothek der Wissenschaften Görlitz</setName>
+    </set>
+    <set>
+      <setSpec>ddb-philharmonie-dresden</setSpec>
+      <setName>Philharmonie Dresden</setName>
+    </set>
+    <set>
+      <setSpec>ddb-preusker-grossenhain</setSpec>
+      <setName>Karl-Preusker-Bücherei Großenhain</setName>
+    </set>
+    <set>
+      <setSpec>ddb-robert-schumann-haus</setSpec>
+      <setName>Robert-Schumann-Haus Zwickau</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sa-dresden</setSpec>
+      <setName>Stadtarchiv Dresden</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sa-kamenz</setSpec>
+      <setName>Stadtarchiv Kamenz</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sa-zschopau</setSpec>
+      <setName>Stadtarchiv Zschopau</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sa-zwickau</setSpec>
+      <setName>Stadtarchiv Zwickau</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sae-wirtschaftsarchiv</setSpec>
+      <setName>Sächsisches Wirtschaftsarchiv e.V.</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sb-bautzen</setSpec>
+      <setName>Stadtbibliothek Bautzen</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sb-chemnitz</setSpec>
+      <setName>Historische Bestände der Stadtbibliothek Chemnitz</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sb-leipzig</setSpec>
+      <setName>Städtische Bibliotheken Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>ddb-schloss-lauenstein</setSpec>
+      <setName>Osterzgebirgsmuseum Schloss Lauenstein</setName>
+    </set>
+    <set>
+      <setSpec>ddb-si-bautzen</setSpec>
+      <setName>Sorbisches Institut Bautzen</setName>
+    </set>
+    <set>
+      <setSpec>ddb-sk-dresden</setSpec>
+      <setName>Staatliche Kunstsammlungen Dresden</setName>
+    </set>
+    <set>
+      <setSpec>ddb-slub-dresden</setSpec>
+      <setName>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek</setName>
+    </set>
+    <set>
+      <setSpec>ddb-slub-dresden-issues</setSpec>
+      <setName>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (Zeitungsausgaben)</setName>
+    </set>
+    <set>
+      <setSpec>ddb-slub-dresden-without-issues</setSpec>
+      <setName>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (ohne Zeitungsausgaben)</setName>
+    </set>
+    <set>
+      <setSpec>ddb-staatskapelle-staatsoper-dresden</setSpec>
+      <setName>Sächsische Staatskapelle/Staatsoper Dresden</setName>
+    </set>
+    <set>
+      <setSpec>ddb-stadt-annaberg-buchholz</setSpec>
+      <setName>Stadt Annaberg-Buchholz</setName>
+    </set>
+    <set>
+      <setSpec>ddb-stadtarchiv-meissen</setSpec>
+      <setName>Stadtarchiv Meißen</setName>
+    </set>
+    <set>
+      <setSpec>ddb-stuhlbaumuseum-rabenau</setSpec>
+      <setName>Deutsches Stuhlbaumuseum Rabenau</setName>
+    </set>
+    <set>
+      <setSpec>ddb-tuba-freiberg</setSpec>
+      <setName>TU Bergakademie Freiberg</setName>
+    </set>
+    <set>
+      <setSpec>ddb-ub-chemnitz</setSpec>
+      <setName>Universitätsbibliothek Chemnitz</setName>
+    </set>
+    <set>
+      <setSpec>ddb-ub-freiberg</setSpec>
+      <setName>Universitätsbibliothek Freiberg</setName>
+    </set>
+    <set>
+      <setSpec>ddb-unitaet-herrnhut</setSpec>
+      <setName>Evangelische Brüder-Unität, Herrnhuter Brüdergemeine</setName>
+    </set>
+    <set>
+      <setSpec>ddb-vb-plauen</setSpec>
+      <setName>Vogtlandbibliothek Plauen</setName>
+    </set>
+    <set>
+      <setSpec>ddb-weise-zittau</setSpec>
+      <setName>Christian-Weise-Bibliothek Zittau</setName>
+    </set>
+    <set>
+      <setSpec>ddb-wh-zwickau</setSpec>
+      <setName>Westsächsische Hochschule Zwickau</setName>
+    </set>
+    <set>
+      <setSpec>design</setSpec>
+      <setName>Design</setName>
+    </set>
+    <set>
+      <setSpec>dissertations-tu-dresden</setSpec>
+      <setName>Dissertationen der TU Dresden</setName>
+    </set>
+    <set>
+      <setSpec>dyn-test</setSpec>
+      <setName>Dynamischer Test</setName>
+    </set>
+    <set>
+      <setSpec>exhibition-catalogues-from-the-soviet-occupation-zone</setSpec>
+      <setName>Ausstellungskataloge aus der Sowjetischen Besatzungszone</setName>
+    </set>
+    <set>
+      <setSpec>fh-zwickau</setSpec>
+      <setName>Bestände der Westsächsischen Hochschule Zwickau</setName>
+    </set>
+    <set>
+      <setSpec>geoscience</setSpec>
+      <setName>Geo- und Montanwissenschaften</setName>
+    </set>
+    <set>
+      <setSpec>historische-zeitungen</setSpec>
+      <setName>Historische Zeitungen</setName>
+    </set>
+    <set>
+      <setSpec>history-of-sciences</setSpec>
+      <setName>Wissenschaftsgeschichte</setName>
+    </set>
+    <set>
+      <setSpec>history-of-technology</setSpec>
+      <setName>Technikgeschichte</setName>
+    </set>
+    <set>
+      <setSpec>kulinarische-sammlung</setSpec>
+      <setName>Kulinarische Sammlung</setName>
+    </set>
+    <set>
+      <setSpec>ldp-bibliothek-des-vereins-deutscher-eisenhttenleute-vdeh</setSpec>
+      <setName>LDP: Bibliothek des Vereins Deutscher Eisenhüttenleute (VDEh)</setName>
+    </set>
+    <set>
+      <setSpec>ldp-boersenblatt</setSpec>
+      <setName>Börsenblatt für den deutschen Buchhandel</setName>
+    </set>
+    <set>
+      <setSpec>ldp-historische-hand-und-druckschriften-der-karl-preusker-bcherei-groenhain</setSpec>
+      <setName>LDP: Historische Hand- und Druckschriften der Karl-Preusker-Bücherei Großenhain</setName>
+    </set>
+    <set>
+      <setSpec>ldp-lusatica</setSpec>
+      <setName>Lusatica</setName>
+    </set>
+    <set>
+      <setSpec>ldp-slub</setSpec>
+      <setName>LDP: SLUB</setName>
+    </set>
+    <set>
+      <setSpec>manuscripts</setSpec>
+      <setName>Handschriften</setName>
+    </set>
+    <set>
+      <setSpec>maps</setSpec>
+      <setName>Karten und Ansichten</setName>
+    </set>
+    <set>
+      <setSpec>maya-codex</setSpec>
+      <setName>Maya-Handschrift - Codex Dresdensis</setName>
+    </set>
+    <set>
+      <setSpec>miners-manuscript-ldp</setSpec>
+      <setName>LDP: Bergmännische Manuskripte</setName>
+    </set>
+    <set>
+      <setSpec>modern-manuscripts</setSpec>
+      <setName>Neuzeitliche Handschriften</setName>
+    </set>
+    <set>
+      <setSpec>music</setSpec>
+      <setName>Musik</setName>
+    </set>
+    <set>
+      <setSpec>newspaper</setSpec>
+      <setName>Zeitungen</setName>
+    </set>
+    <set>
+      <setSpec>newspaper-ldp</setSpec>
+      <setName>LDP: Zeitungen</setName>
+    </set>
+    <set>
+      <setSpec>olb-goerlitz</setSpec>
+      <setName>Bestände der Oberlausitzischen Bibliothek der Wissenschaften Görlitz</setName>
+    </set>
+    <set>
+      <setSpec>open-philology-project</setSpec>
+      <setName>Open Philology Project</setName>
+    </set>
+    <set>
+      <setSpec>out-of-print-works</setSpec>
+      <setName>Vergriffene Werke</setName>
+    </set>
+    <set>
+      <setSpec>performance-ephemera</setSpec>
+      <setName>Performance Ephemera</setName>
+    </set>
+    <set>
+      <setSpec>photography</setSpec>
+      <setName>Fotografie</setName>
+    </set>
+    <set>
+      <setSpec>project-august-wilhelm-schlegel</setSpec>
+      <setName>Digitale Sammlung August Wilhelm Schlegel</setName>
+    </set>
+    <set>
+      <setSpec>project-bibliotheca-gastronomica</setSpec>
+      <setName>Bibliotheca Gastronomica</setName>
+    </set>
+    <set>
+      <setSpec>project-collection-jaedicke</setSpec>
+      <setName>Broschüren- und Collectaneen-Sammlung des Sammlers Adolf Jädicke</setName>
+    </set>
+    <set>
+      <setSpec>project-collection-sorbian-institute-bautzen</setSpec>
+      <setName>Projekt: Sammlungen des Sorbischen Instituts Bautzen</setName>
+    </set>
+    <set>
+      <setSpec>project-dresden-address-books</setSpec>
+      <setName>Projekt: Dresdner Adressbücher</setName>
+    </set>
+    <set>
+      <setSpec>project-dresden-court-church-music</setSpec>
+      <setName>Musikalien der Dresdner Hofkirche digital</setName>
+    </set>
+    <set>
+      <setSpec>project-dresden-court-music</setSpec>
+      <setName>Instrumentalmusik der Dresdner Hofkapelle</setName>
+    </set>
+    <set>
+      <setSpec>project-dresden-opera-archive</setSpec>
+      <setName>Dresdner Opernarchiv digital</setName>
+    </set>
+    <set>
+      <setSpec>project-dresdner-hefte</setSpec>
+      <setName>Dresdner Hefte</setName>
+    </set>
+    <set>
+      <setSpec>project-form-zweck</setSpec>
+      <setName>Form und Zweck - Fachzeitschrift für Industrielle Formgestaltung in der DDR</setName>
+    </set>
+    <set>
+      <setSpec>project-german-medieval-manuscripts</setSpec>
+      <setName>Deutschsprachige mittelalterliche Handschriften</setName>
+    </set>
+    <set>
+      <setSpec>project-greek-manuscripts</setSpec>
+      <setName>Griechische Handschriften</setName>
+    </set>
+    <set>
+      <setSpec>project-historical-museum-leipzig</setSpec>
+      <setName>Projekt: Bestände des Stadtgeschichtlichen Museums Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>project-historical-museum-leipzig-ldp</setSpec>
+      <setName>LDP: Bestände des Stadtgeschichtlichen Museums Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>project-history-of-arts</setSpec>
+      <setName>Projekt: Kunstgeschichte</setName>
+    </set>
+    <set>
+      <setSpec>project-history-of-technology-17th-century</setSpec>
+      <setName>Quellen zur Technikgeschichte 16./17. Jh.</setName>
+    </set>
+    <set>
+      <setSpec>project-history-of-technology-19th-century</setSpec>
+      <setName>Quellen zur Technikgeschichte 19. Jh.</setName>
+    </set>
+    <set>
+      <setSpec>project-italian-manuscripts</setSpec>
+      <setName>Italienische Handschriften</setName>
+    </set>
+    <set>
+      <setSpec>project-leipzig-conservatory</setSpec>
+      <setName>Konservatorium Leipzig</setName>
+    </set>
+    <set>
+      <setSpec>project-new-archive-for-saxon-history</setSpec>
+      <setName>Neues Archiv für Sächsische Geschichte</setName>
+    </set>
+    <set>
+      <setSpec>project-news-in-university-archive-herrnhut</setSpec>
+      <setName>LDP: Gemein-Nachrichten im Unitätsarchiv Herrnhut</setName>
+    </set>
+    <set>
+      <setSpec>project-non-german-medieval-manuscripts</setSpec>
+      <setName>Nichtdeutschsprachige mittelalterliche illustrierte Handschriften</setName>
+    </set>
+    <set>
+      <setSpec>project-old-books-of-chemnitz-city-library</setSpec>
+      <setName>Historische Bestände der Stadtbibliothek Chemnitz</setName>
+    </set>
+    <set>
+      <setSpec>project-ostrale</setSpec>
+      <setName>Ostrale</setName>
+    </set>
+    <set>
+      <setSpec>project-polytechnical-journal</setSpec>
+      <setName>Dinglers Polytechnisches Journal</setName>
+    </set>
+    <set>
+      <setSpec>project-private-royal-music-collection</setSpec>
+      <setName>Königliche Privat-Musikaliensammlung digital</setName>
+    </set>
+    <set>
+      <setSpec>project-protocols-of-the-saxon-state-parliament</setSpec>
+      <setName>Sächsische Landtagsprotokolle</setName>
+    </set>
+    <set>
+      <setSpec>project-saxon-address-books</setSpec>
+      <setName>Sächsische Adressbücher</setName>
+    </set>
+    <set>
+      <setSpec>project-saxonian-academy-of-sciences-and-humanities</setSpec>
+      <setName>Abhandlungen der Sächsischen Akademie der Wissenschaften</setName>
+    </set>
+    <set>
+      <setSpec>project-university-archive-herrenhut</setSpec>
+      <setName>Projekt: Bestände des Unitätsarchivs Herrnhut</setName>
+    </set>
+    <set>
+      <setSpec>project-vd17</setSpec>
+      <setName>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD17)</setName>
+    </set>
+    <set>
+      <setSpec>project-vd18</setSpec>
+      <setName>Projekt: Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 18. Jahrhunderts (VD18)</setName>
+    </set>
+    <set>
+      <setSpec>restituted-collections</setSpec>
+      <setName>Restituierte Bestände</setName>
+    </set>
+    <set>
+      <setSpec>robert-and-clara-schumann</setSpec>
+      <setName>Robert und Clara Schumann</setName>
+    </set>
+    <set>
+      <setSpec>saxonica</setSpec>
+      <setName>Saxonica</setName>
+    </set>
+    <set>
+      <setSpec>stenographic-collection</setSpec>
+      <setName>Stenografische Sammlung</setName>
+    </set>
+    <set>
+      <setSpec>the-bicycle</setSpec>
+      <setName>Das Fahrrad</setName>
+    </set>
+    <set>
+      <setSpec>ub-chemnitz</setSpec>
+      <setName>Bestände der Universitätsbibliothek Chemnitz</setName>
+    </set>
+    <set>
+      <setSpec>ub-chemnitz-ldp</setSpec>
+      <setName>LDP: Bestände der Universitätsbibliothek Chemnitz</setName>
+    </set>
+    <set>
+      <setSpec>ub-freiberg</setSpec>
+      <setName>Bestände der Universitätsbibliothek Freiberg</setName>
+    </set>
+    <set>
+      <setSpec>varia</setSpec>
+      <setName>Varia</setName>
+    </set>
+    <set>
+      <setSpec>virtual-treasure-chamber</setSpec>
+      <setName>Virtuelle Schatzkammer</setName>
+    </set>
+  </ListSets>
+</OAI-PMH>
